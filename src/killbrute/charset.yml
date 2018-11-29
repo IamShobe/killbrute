@@ -1,0 +1,5 @@
+lower: "abcdefghijklmnopqrstuvwxyz"
+upper: "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+digit: "01234567890"
+symbol: "!@#$%^&*_+-="
+special: "\"'[]{}()"

@@ -1,0 +1,5 @@
+.idea/
+killbrute.egg-info/
+*.txt
+*.pyc
+*.zip
